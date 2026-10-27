@@ -65,4 +65,4 @@ flowchart LR
 
 Llevo el proyecto de principio a fin: la idea, el trato con el cliente, qué se construye y cuándo, las pruebas de aceptación, los despliegues y el servidor.
 
-El código lo escriben agentes de IA. Trabajo con dos: uno escribe y prueba los cambios (Claude Code) y otro revisa cada plan y cada informe antes de aplicarlo (Claude). Yo defino lo que hace falta, tomo las decisiones y doy el visto bueno a lo que llega a producción.
+El código lo escriben agentes de IA. Trabajo con dos: uno escribe y prueba los cambios y otro revisa cada plan y cada informe antes de aplicarlo. Yo defino lo que hace falta, tomo las decisiones y doy el visto bueno a lo que llega a producción.
